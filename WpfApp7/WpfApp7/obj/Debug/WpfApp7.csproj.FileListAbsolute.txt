@@ -1,0 +1,13 @@
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.Cache
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.CoreCompileInputs.cache
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb
+C:\Users\libo\source\repos\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojResolveAssemblyReference.cache
